@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='648.00pt' height='432.00pt' viewBox='0 0 648.00 432.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2NDguMDB8MC4wMHw0MzIuMDA='>
+    <rect x='0.00' y='0.00' width='648.00' height='432.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHw0MzIuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMTU2Ljg1fDUyMi43MXwzMy43MnwzNjguOTY='>
+    <rect x='156.85' y='33.72' width='365.86' height='335.24' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTU2Ljg1fDUyMi43MXwzMy43MnwzNjguOTY=)'>
+<polyline points='156.85,287.31 522.71,287.31 ' style='stroke-width: 1.55; stroke: #EBEBEB; stroke-dasharray: 2.07,6.21; stroke-linecap: butt;' />
+<polyline points='156.85,200.98 522.71,200.98 ' style='stroke-width: 1.55; stroke: #EBEBEB; stroke-dasharray: 2.07,6.21; stroke-linecap: butt;' />
+<polyline points='156.85,114.65 522.71,114.65 ' style='stroke-width: 1.55; stroke: #EBEBEB; stroke-dasharray: 2.07,6.21; stroke-linecap: butt;' />
+<polyline points='470.12,55.49 479.11,53.13 488.10,51.13 497.09,51.33 506.08,49.68 ' style='stroke-width: 2.56; stroke: #440154; stroke-linecap: butt;' />
+<polyline points='380.23,76.77 389.22,74.39 398.21,72.27 407.20,69.91 416.19,67.24 425.18,67.25 434.17,65.47 443.16,64.10 452.15,65.79 461.14,64.78 470.12,68.80 479.11,67.39 488.10,64.67 497.09,65.91 506.08,63.68 ' style='stroke-width: 2.56; stroke: #443A83; stroke-linecap: butt;' />
+<polyline points='290.34,123.36 299.33,114.30 308.32,108.54 317.31,104.03 326.30,97.59 335.28,94.22 344.27,90.21 353.26,88.04 362.25,88.75 371.24,86.63 380.23,88.18 389.22,86.28 398.21,83.71 407.20,83.86 416.19,81.67 425.18,83.07 434.17,81.22 443.16,79.50 452.15,79.61 461.14,79.78 470.12,78.03 479.11,76.77 488.10,75.81 497.09,75.03 506.08,73.53 ' style='stroke-width: 2.56; stroke: #31688E; stroke-linecap: butt;' />
+<polyline points='200.45,304.21 209.43,285.25 218.42,263.96 227.41,241.12 236.40,217.85 245.39,204.72 254.38,185.82 263.37,167.99 272.36,159.67 281.35,149.44 290.34,145.91 299.33,135.72 308.32,126.30 317.31,123.70 326.30,116.93 335.28,117.44 344.27,111.53 353.26,107.82 362.25,106.67 371.24,104.62 380.23,98.54 389.22,99.03 398.21,94.92 407.20,95.33 416.19,90.74 425.18,89.06 434.17,85.51 443.16,84.50 452.15,81.19 461.14,82.65 470.12,78.49 479.11,76.63 488.10,78.22 ' style='stroke-width: 2.56; stroke: #21908C; stroke-linecap: butt;' />
+<polyline points='173.48,356.38 182.47,349.15 191.46,338.12 200.45,335.19 209.43,318.32 218.42,299.26 227.41,284.23 236.40,262.14 245.39,254.50 254.38,233.96 263.37,213.74 272.36,206.50 281.35,189.70 290.34,176.81 299.33,169.78 308.32,157.53 317.31,153.73 326.30,143.23 335.28,136.70 344.27,128.45 353.26,122.88 362.25,118.48 371.24,117.09 380.23,111.68 389.22,108.03 398.21,105.61 ' style='stroke-width: 2.56; stroke: #35B779; stroke-linecap: butt;' />
+<polyline points='173.48,368.36 182.47,364.66 191.46,357.32 200.45,349.18 209.43,338.83 218.42,324.34 227.41,312.22 236.40,295.18 245.39,280.56 254.38,262.17 263.37,244.63 272.36,230.64 281.35,213.80 290.34,200.17 299.33,187.28 308.32,173.73 ' style='stroke-width: 2.56; stroke: #8FD744; stroke-linecap: butt;' />
+<polyline points='173.48,368.96 182.47,366.60 191.46,360.76 200.45,352.51 209.43,341.60 218.42,329.57 ' style='stroke-width: 2.56; stroke: #FDE725; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHw0MzIuMDA=)'>
+<text x='149.67' y='291.89' text-anchor='end' style='font-size: 12.80px;fill: #4D4D4D; font-family: "Arial";' textLength='36.27px' lengthAdjust='spacingAndGlyphs'>25.0%</text>
+<text x='149.67' y='205.56' text-anchor='end' style='font-size: 12.80px;fill: #4D4D4D; font-family: "Arial";' textLength='36.27px' lengthAdjust='spacingAndGlyphs'>50.0%</text>
+<text x='149.67' y='119.23' text-anchor='end' style='font-size: 12.80px;fill: #4D4D4D; font-family: "Arial";' textLength='36.27px' lengthAdjust='spacingAndGlyphs'>75.0%</text>
+<text x='191.46' y='385.29' text-anchor='middle' style='font-size: 12.80px;fill: #4D4D4D; font-family: "Arial";' textLength='14.22px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='281.35' y='385.29' text-anchor='middle' style='font-size: 12.80px;fill: #4D4D4D; font-family: "Arial";' textLength='14.22px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='371.24' y='385.29' text-anchor='middle' style='font-size: 12.80px;fill: #4D4D4D; font-family: "Arial";' textLength='14.22px' lengthAdjust='spacingAndGlyphs'>40</text>
+<text x='461.14' y='385.29' text-anchor='middle' style='font-size: 12.80px;fill: #4D4D4D; font-family: "Arial";' textLength='14.22px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='339.78' y='403.42' text-anchor='middle' style='font-size: 16.00px; font-family: "Arial";' textLength='28.48px' lengthAdjust='spacingAndGlyphs'>Age</text>
+<text x='58.70' y='207.07' text-anchor='middle' style='font-size: 16.00px; font-family: "Arial";' textLength='101.45px' lengthAdjust='spacingAndGlyphs'>Marriage Rate</text>
+<text x='546.62' y='142.60' style='font-size: 16.00px; font-family: "Arial";' textLength='85.44px' lengthAdjust='spacingAndGlyphs'>Birth Cohort</text>
+<line x1='548.35' y1='160.90' x2='562.17' y2='160.90' style='stroke-width: 2.56; stroke: #440154; stroke-linecap: butt;' />
+<line x1='548.35' y1='178.18' x2='562.17' y2='178.18' style='stroke-width: 2.56; stroke: #443A83; stroke-linecap: butt;' />
+<line x1='548.35' y1='195.46' x2='562.17' y2='195.46' style='stroke-width: 2.56; stroke: #31688E; stroke-linecap: butt;' />
+<line x1='548.35' y1='212.74' x2='562.17' y2='212.74' style='stroke-width: 2.56; stroke: #21908C; stroke-linecap: butt;' />
+<line x1='548.35' y1='230.02' x2='562.17' y2='230.02' style='stroke-width: 2.56; stroke: #35B779; stroke-linecap: butt;' />
+<line x1='548.35' y1='247.30' x2='562.17' y2='247.30' style='stroke-width: 2.56; stroke: #8FD744; stroke-linecap: butt;' />
+<line x1='548.35' y1='264.58' x2='562.17' y2='264.58' style='stroke-width: 2.56; stroke: #FDE725; stroke-linecap: butt;' />
+<text x='571.87' y='165.47' style='font-size: 12.80px; font-family: "Arial";' textLength='34.84px' lengthAdjust='spacingAndGlyphs'>1940s</text>
+<text x='571.87' y='182.75' style='font-size: 12.80px; font-family: "Arial";' textLength='34.84px' lengthAdjust='spacingAndGlyphs'>1950s</text>
+<text x='571.87' y='200.03' style='font-size: 12.80px; font-family: "Arial";' textLength='34.84px' lengthAdjust='spacingAndGlyphs'>1960s</text>
+<text x='571.87' y='217.31' style='font-size: 12.80px; font-family: "Arial";' textLength='34.84px' lengthAdjust='spacingAndGlyphs'>1970s</text>
+<text x='571.87' y='234.59' style='font-size: 12.80px; font-family: "Arial";' textLength='34.84px' lengthAdjust='spacingAndGlyphs'>1980s</text>
+<text x='571.87' y='251.87' style='font-size: 12.80px; font-family: "Arial";' textLength='34.84px' lengthAdjust='spacingAndGlyphs'>1990s</text>
+<text x='571.87' y='269.15' style='font-size: 12.80px; font-family: "Arial";' textLength='34.84px' lengthAdjust='spacingAndGlyphs'>2000s</text>
+<text x='339.78' y='21.71' text-anchor='middle' style='font-size: 19.20px; font-weight: bold; font-family: "Arial";' textLength='353.22px' lengthAdjust='spacingAndGlyphs'>Marriage Rate by Age and Birth Cohort</text>
+<text x='522.71' y='421.93' text-anchor='end' style='font-size: 10.00px;fill: #7F7F7F; font-family: "Arial";' textLength='324.59px' lengthAdjust='spacingAndGlyphs'>Source: American Community Survey (ACS) 1-year samples (2000-2023)</text>
+</g>
+</g>
+</svg>
