@@ -1,0 +1,51 @@
+{
+  "dataset_rows": 93305,
+  "features_after_preproc": 150,
+  "class_balance": 0.049054177160923855,
+  "baseline_lr": {
+    "val_auc": 0.7254350245325815,
+    "val_prauc": 0.12081707002896075,
+    "test_auc": 0.7057532860479911,
+    "test_prauc": 0.11195551562444828,
+    "test_cm_f1opt": [
+      [
+        15920,
+        1826
+      ],
+      [
+        633,
+        282
+      ]
+    ],
+    "test_f1_f1opt": 0.18656963281508435,
+    "threshold_used": 0.6873525961097007
+  },
+  "xgb_best": {
+    "best_params": {
+      "subsample": 0.8,
+      "reg_lambda": 5,
+      "reg_alpha": 0,
+      "n_estimators": 500,
+      "min_child_weight": 1,
+      "max_depth": 6,
+      "learning_rate": 0.02,
+      "gamma": 0.2,
+      "colsample_bytree": 0.8
+    },
+    "cv_prauc_best": 0.12892426919546784,
+    "test_auc": 0.7119164543506764,
+    "test_prauc": 0.12332300119140882,
+    "test_cm_threshold": [
+      [
+        16184,
+        1562
+      ],
+      [
+        656,
+        259
+      ]
+    ],
+    "test_f1_threshold": 0.18932748538011696,
+    "threshold_used": 0.662381112575531
+  }
+}
